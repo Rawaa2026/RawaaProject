@@ -2,4 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- ألوان هادئة بسيطة -->
+    <color name="background">#F5F5F2</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#2D2D2D</color>
+    <color name="text_secondary">#6B6B6B</color>
+    <color name="border">#E2E2DE</color>
+    <color name="nav_unselected">#9E9E9A</color>
+    <color name="nav_selected">#2D2D2D</color>
+    <color name="hint">#9E9E9A</color>
+    <color name="divider">#EEEEEC</color>
 </resources>

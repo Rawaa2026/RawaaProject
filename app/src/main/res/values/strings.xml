@@ -1,3 +1,49 @@
 <resources>
-    <string name="app_name">RawaaProject</string>
+    <string name="app_name">TeachMeApp</string>
+    <string name="splash_tagline">منصة الدروس الخصوصية</string>
+    <string name="home_welcome">مرحباً بك في TeachMeApp للدروس الخصوصية.</string>
+
+    <!-- تنقل سفلي -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_search">البحث</string>
+    <string name="nav_messages">الرسائل</string>
+    <string name="nav_profile">الحساب</string>
+
+    <!-- تسجيل الدخول -->
+    <string name="login">تسجيل الدخول</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login_btn">دخول</string>
+    <string name="no_account">ليس لديك حساب؟</string>
+    <string name="register_here">سجّل من هنا</string>
+
+    <!-- التسجيل -->
+    <string name="register">إنشاء حساب</string>
+    <string name="register_as">التسجيل كـ</string>
+    <string name="teacher">مدرس</string>
+    <string name="student">طالب</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="full_name_hint">أدخل الاسم الكامل</string>
+    <string name="photo">الصورة الشخصية</string>
+    <string name="add_photo">إضافة صورة</string>
+    <string name="description">نبذة عنك</string>
+    <string name="description_hint_teacher">نبذة مختصرة وخبراتك</string>
+    <string name="description_hint_student">الصف أو المرحلة والمواد التي تريد دروساً فيها</string>
+    <string name="birth_date">تاريخ الميلاد</string>
+    <string name="birth_date_hint">يوم / شهر / سنة</string>
+    <string name="continue_btn">متابعة</string>
+    <string name="have_account">لديك حساب؟</string>
+    <string name="login_here">سجّل الدخول من هنا</string>
+    <string name="password_min_length">كلمة المرور 6 أحرف على الأقل</string>
+    <string name="register_failed">فشل التسجيل</string>
+
+    <!-- حسابي -->
+    <string name="edit_profile">تحرير الملف الشخصي</string>
+    <string name="save">حفظ</string>
+    <string name="change_photo">تغيير الصورة</string>
+    <string name="photo_from_camera">الكاميرا</string>
+    <string name="photo_from_gallery">المكتبة</string>
+    <string name="profile_updated">تم تحديث الملف الشخصي</string>
+    <string name="loading">جاري التحميل…</string>
+    <string name="camera_permission_required">يجب السماح بالوصول للكاميرا لالتقاط الصورة</string>
 </resources>
