@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- نفس اللوجو بحجم أصغر للشريط العلوي -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <path
+        android:fillColor="@color/text_secondary"
+        android:pathData="M20,92 L20,38 L60,26 L60,80 Z"
+        android:fillAlpha="0.6" />
+    <path
+        android:fillColor="@color/text_primary"
+        android:pathData="M60,26 L100,38 L100,92 L60,80 Z" />
+    <path
+        android:fillColor="@color/text_primary"
+        android:pathData="M57,22 L63,22 L63,84 L57,84 Z" />
+</vector>
